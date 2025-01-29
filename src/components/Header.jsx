@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import logo from '../public/images/logo2.jpg';
+import logo from '/public/images/logo2.jpg';
 
 const navItems = [
   { href: '/', label: 'Home' },
@@ -17,9 +17,11 @@ function Header() {
     <header className="bg-white shadow-md fixed w-full z-50">
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <Link to="/" className="text-2xl font-bold text-blue-600">
+          <Link to="/" className="flex justify-between items-center h-16">
             <img src={logo} alt="pleasure Logo" className="h-12 w-12" />
+            <span className="text-xl font-bold text-gray-900">
             Ochitech Solutions
+            </span>
           </Link>
 
           {/* Mobile menu button */}

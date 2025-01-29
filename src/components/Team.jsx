@@ -1,20 +1,20 @@
 const team = [
   {
-    name: 'John Doe',
+    name: 'Benard Okpe',
     position: 'CEO & Founder',
-    image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200',
+    image: '/images/founder.jpg',
     description: 'With over 15 years of experience in technology solutions.'
   },
   {
-    name: 'Sarah Johnson',
+    name: 'Ogbaje Emmanuel',
     position: 'Technical Director',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200',
+    image: '/images/tech.jpeg',
     description: 'Expert in system architecture and security solutions.'
   },
   {
-    name: 'Michael Chen',
+    name: 'John Ukeyima',
     position: 'Head of Operations',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200',
+    image: '/images/ukmoni.jpg',
     description: 'Specializes in project management and client relations.'
   }
 ];

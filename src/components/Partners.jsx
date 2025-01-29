@@ -1,11 +1,10 @@
 const partners = [
-  { name: 'UKmoni Global Business Services', description: 'Leader in real estate and business solutions' },
+  { name: 'UKmoni Real Estate Services', description: 'Leader in real estate and business solutions' },
   { name: 'Pleasure Travels', description: 'Trusted name in travel and logistics' },
   { name: 'Beniko Group of Company', description: 'Excellence in diverse industries' },
-  { name: 'Dimaq', description: 'Specialists in marketing and digital solutions' },
+  { name: 'Dimaq Digital Solutions', description: 'Specialists in Software designs and digital solutions' },
   { name: 'Mega Tracker', description: 'Leaders in vehicle tracking solutions' },
-  { name: 'Supply Chain Global Services', description: 'Experts in logistics solutions' },
-  { name: 'Benue State Sports Marketing', description: 'Partners in community development' }
+  { name: 'Benue State Sports Marketing', description: 'Partners in community sport development' }
 ];
 
 function Partners() {

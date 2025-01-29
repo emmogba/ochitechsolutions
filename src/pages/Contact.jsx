@@ -69,7 +69,7 @@ function Contact() {
                 <div className="space-y-4">
                   <div>
                     <h3 className="font-semibold text-gray-800">Address</h3>
-                    <p className="text-gray-600">Your Company Address Here</p>
+                    <p className="text-gray-600">Gboko Road, Makurdi. Benue State</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800">Email</h3>
@@ -77,7 +77,7 @@ function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800">Phone</h3>
-                    <p className="text-gray-600">+234 XXX XXX XXXX</p>
+                    <p className="text-gray-600">+234 7064875048</p>
                   </div>
                 </div>
               </div>
